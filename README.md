@@ -22,11 +22,14 @@
    *  cd 폴더명 
    *  npm start
    *  
-  
+ 
   # SPA : Single Page Application
       페이지는 하나인데 여러개인것처럼 눈속임을 한다. --> 자바스크립트가 해준다.
       페이지를 매번 새로고침할 필요가 없음.
       웹사이트를 모바일앱처럼 사용할 수 있음.
-      
-      
-      
+  
+  # VS CODE 확장 프로그램 
+      *  ![image](https://github.com/hani10004/react_basic/assets/129706997/9e9a92ff-abd2-42ce-b1aa-ef633fd8878a)
+  ##### Setting
+      * ![image](https://github.com/hani10004/react_basic/assets/129706997/ca4b5967-31d9-4cc2-af77-f3aed56b8b82)
+
