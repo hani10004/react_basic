@@ -29,9 +29,9 @@
       웹사이트를 모바일앱처럼 사용할 수 있음.
   
   # VS CODE 확장 프로그램
-  #### 확장 프로그램 설치 
+  #### 01. 확장 프로그램 설치 
 ![image](https://github.com/hani10004/react_basic/assets/129706997/9e9a92ff-abd2-42ce-b1aa-ef633fd8878a)
-  #### Setting 설정
+  #### 02. Setting 설정
 ![image](https://github.com/hani10004/react_basic/assets/129706997/ca4b5967-31d9-4cc2-af77-f3aed56b8b82)
 ![image](https://github.com/hani10004/react_basic/assets/129706997/3c13952e-5c8b-4afc-8d9a-58c55f4db0f8)
 
