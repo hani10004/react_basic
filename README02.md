@@ -26,8 +26,9 @@
   ![image](https://github.com/hani10004/react_basic/assets/129706997/bda03ddd-62a9-43dc-a773-6e580c5d3141)
 
 -----------------------------------------------------
-  
-  
+  # 함수를 밖으로 빼기 
+  ![image](https://github.com/hani10004/react_basic/assets/129706997/fad1cdd5-a701-44aa-abe3-5bb2fdbf4310)
+
 -----------------------------------------------------
   
   
