@@ -1,35 +1,40 @@
-# 컴포넌트components 만들기 -- 폴더 #react2 참조
-![image](https://github.com/hani10004/react_basic/assets/129706997/b12fb7bb-1bf7-4caf-84cb-dd01227b5365)
+# componet 만들기  -- 폴더 #react2 참조
+![image](https://github.com/understanding963852/react_basic/assets/60366769/6f988da5-5fd2-4b48-86da-94244a5f964f)
 
------------------------------------------------------
+# JSX문법에서 javaScript를 사용할때는 {}를 사용한다
+# html의 class를 react에서 만들때는 className="" 형식으로 만든다
+![image](https://github.com/understanding963852/react_basic/assets/60366769/78bd4181-f3e9-4b6c-b7a9-acf2f01562a7)
 
-# 👼 JSX 문법에서 javaScript를 사용할때는 '{변수}' ({ }안에 변수넣기)
-## html의 class를 react에서 만들때는 className=" " 형식으로 만든다 
-![image](https://github.com/hani10004/react_basic/assets/129706997/6e7fa386-c269-43ef-b89e-6a2ddf7cd6f1)
 
------------------------------------------------------
 # return문은 반드시 하나의 태그로 되어있어야한다
+![image](https://github.com/understanding963852/react_basic/assets/60366769/e3f8fd62-a259-41f1-9f7c-8c0c813c4681)
 
-![image](https://github.com/hani10004/react_basic/assets/129706997/0ed5ab1e-8295-4e12-ade9-7704d889827b)
-
-# 오류 해결방법 => 부모태그로 싸주어야한다 <div> 또는  <>(Fragment) 
-![image](https://github.com/hani10004/react_basic/assets/129706997/d58f6a0f-2c04-49e9-ba77-6a7d0d37439a)
-
-  -----------------------------------------------------
+# 해결방법  부모태그로 싸주어야한다(<div>) 또는 Fragment로 싸주어야한다.
+![image](https://github.com/understanding963852/react_basic/assets/60366769/fab8b553-3822-4f82-9ea0-30180788ac5d)
   
- # 함수만들기
+# 함수만들기
+  ![image](https://github.com/understanding963852/react_basic/assets/60366769/8cfa9f5b-60c8-4fdc-bbda-7bac2833506f)
   
-  ![image](https://github.com/hani10004/react_basic/assets/129706997/61c90971-f572-4d72-9bcb-9a7b2f57d0f9)
-
-## 화살표함수로 만들기 
-  ### function 없애고 () => { }
-  ![image](https://github.com/hani10004/react_basic/assets/129706997/bda03ddd-62a9-43dc-a773-6e580c5d3141)
-
------------------------------------------------------
-  # 함수를 밖으로 빼기 
-  ![image](https://github.com/hani10004/react_basic/assets/129706997/fad1cdd5-a701-44aa-abe3-5bb2fdbf4310)
-
------------------------------------------------------
+# 화살표함수로 바꿈
+![image](https://github.com/understanding963852/react_basic/assets/60366769/97d52716-2ad5-4c31-88b7-e3f95896ac7e)
+  
+# 함수를 밖으로 빼기
+![image](https://github.com/understanding963852/react_basic/assets/60366769/39e8002d-1dcf-437b-9222-28fc5696605c)
+  
+# 클릭하면 함수실행(Event Handling)
+  ![image](https://github.com/understanding963852/react_basic/assets/60366769/8be201ca-1183-460d-9515-ff6c9f627b1c)
+==> 화살표함수로 바뀜
+  
+# 함수 밖으로 빼기
+![image](https://github.com/understanding963852/react_basic/assets/60366769/200daebf-b6f8-40ea-a778-8c10213016d1)
   
   
------------------------------------------------------
+# 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다  
+  ![image](https://github.com/understanding963852/react_basic/assets/60366769/2dd73d44-2ddc-4fbd-a709-f2619371cdc9)
+
+#  react에는서 변수가 바뀐다해서 리랜더링이 일어나지 않는다
+#  ==> 해결책) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다.
+ ![image](https://github.com/understanding963852/react_basic/assets/60366769/f1869d1c-ac54-4982-839a-861b8228fd32)
+
+
+
