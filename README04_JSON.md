@@ -24,6 +24,7 @@ json-server --watch db.json --port 3004
 이것이 실행이 되지 않을 경우에는 
 npx json-server --watch db.json --port 3004
 를 적용한다
+
 ---------------------
 
 
@@ -32,7 +33,13 @@ npx json-server --watch db.json --port 3004
 ![image](https://github.com/hani10004/react_basic/assets/129706997/159aeea0-0e76-40d5-97a8-b8b42f3c7ee0)
 
 https://www.npmjs.com/package/axios
+
 ---------------------
+
 # import에 입력 -- import axios from "axios";
 
 ![image](https://github.com/hani10004/react_basic/assets/129706997/46dd8bc2-1fcc-467c-b66f-f5c287bc09a7)
+
+---------------------
+
+
