@@ -11,7 +11,7 @@
 
 ---------------------
 
-#bd.json 실행하기
+# bd.json 실행하기
 ![image](https://github.com/hani10004/react_basic/assets/129706997/261b3558-b965-483e-977c-5e64bfd1712c)
 ## 위와같이 실행하면 port를 3000번을 사용하기때문에 react와 중복이ㅏ 되어버림 
 ##그래서 port를 변경해 주어야함 
@@ -32,3 +32,7 @@ npx json-server --watch db.json --port 3004
 ![image](https://github.com/hani10004/react_basic/assets/129706997/159aeea0-0e76-40d5-97a8-b8b42f3c7ee0)
 
 https://www.npmjs.com/package/axios
+---------------------
+# import에 입력 -- import axios from "axios";
+
+![image](https://github.com/hani10004/react_basic/assets/129706997/46dd8bc2-1fcc-467c-b66f-f5c287bc09a7)
