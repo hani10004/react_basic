@@ -25,5 +25,10 @@ json-server --watch db.json --port 3004
 npx json-server --watch db.json --port 3004
 를 적용한다
 ---------------------
+
+
 # 서버와 통신하기 
+        npm i axios
 ![image](https://github.com/hani10004/react_basic/assets/129706997/159aeea0-0e76-40d5-97a8-b8b42f3c7ee0)
+
+https://www.npmjs.com/package/axios
